@@ -1,2 +1,2 @@
-# MinecraftBuilds
-A Website to see your next Minecraft builds and farms.
+# Unstable SMP Wiki
+A website to see the events of unstable SMP
